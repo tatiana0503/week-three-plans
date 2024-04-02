@@ -1,0 +1,60 @@
+img {
+  border-radius: 70%;
+}
+
+.App {
+   background-color: #FFF3C7 ;
+   height: 90%;
+   width: 35%;
+   text-align: center;
+   margin-left: 450px;
+   margin-top: 5px;
+}
+body {
+  background-color: #FEC7B4;
+}
+
+.add {
+  padding: 10px;
+  background: #B0C5A4;
+  width: 50%;
+  border: none;
+  color: #114232;
+  margin-top: 10px;
+  font-family: "Noto Serif Khojki", serif;
+  font-size: 17px;  
+}
+
+input {
+  font-family: "Noto Serif Khojki", serif;
+  width: 70%;
+  padding: 7px;
+}
+
+.delete {
+  padding: 10px;
+  background: #D37676;
+  width: 50%;
+  border: none;
+  color: #114232;
+  margin-bottom: 5px;
+  font-family: "Noto Serif Khojki", serif;
+  font-size: 17px;  
+}
+
+h1 {
+  font-family: "Noto Serif Khojki", serif;
+  color: #EE4266;
+  font-size: 40px;
+}
+
+li {
+  list-style-type: none;
+  font-family: "Noto Serif Khojki", serif;
+  font-size: 20px;
+  color: #114232;
+  }
+
+  .crossed {
+    text-decoration: line-through 1px red;
+  }
